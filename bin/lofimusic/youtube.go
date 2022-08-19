@@ -154,7 +154,7 @@ func (p *youTubePlayer) loadVideo(ctx app.Context) {
 					"disablekb":      1,
 					"iv_load_policy": 3,
 					"playsinline":    1,
-					"origin":         "lofimusic.app",
+					"origin":         "lofi-edge.amateurs.team",
 				},
 				"events": map[string]interface{}{
 					"onReady":       onReady,
