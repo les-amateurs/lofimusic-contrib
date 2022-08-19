@@ -684,6 +684,34 @@ func getLiveRadios() []liveRadio {
 					URL:  "https://taiki.shop",
 				},
 			},
+		},{
+			Slug:  "gamechops",
+			Name:  "Video Game Study Lounge",
+			Owner: "GameChops",
+			URL:   "https://youtu.be/LvtFH9qzW4g",
+			Cards: []string{},
+			Links: []socialLink{
+				{
+					Slug: "youtube",
+					URL:  "https://youtu.be/LvtFH9qzW4g",
+				},
+				{
+					Slug: "twitter",
+					URL:  "https://twitter.com/GameChops",
+				},
+				{
+					Slug: "facebook",
+					URL:  "https://www.facebook.com/GameChops",
+				},
+				{
+					Slug: "instagram",
+					URL:  "https://instagram.com/GameChops",
+				},
+				{
+					Slug: "website",
+					URL:  "https://gamechops.com/",
+				},
+			},
 		},
 	}
 
