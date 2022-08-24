@@ -713,39 +713,6 @@ func getLiveRadios() []liveRadio {
 				},
 			},
 		},
-		{
-			Slug:  "radio-cutman",
-			Name:  "Chill beats & videogame music",
-			Owner: "Dj Cutman",
-			URL:   "https://youtu.be/d3SV2tKr6BY",
-			Cards: []string{},
-			Links: []socialLink{
-				{
-					Slug: "youtube",
-					URL:  "https://www.youtube.com/channel/UCNRFAB4ffkPODZd_PZQvgrw",
-				},
-				{
-					Slug: "twitter",
-					URL:  "http://twitter.com/videogamedj",
-				},
-				{
-					Slug: "facebook",
-					URL:  "https://facebook.com/djcutman",
-				},
-				{
-					Slug: "instagram",
-					URL:  "https://instagram.com/videogamedj",
-				},
-				{
-					Slug: "spotify",
-					URL:  "https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8",
-				},
-				{
-					Slug: "website",
-					URL:  "https://RadioCutman.com",
-				},
-			},
-		},
 	}
 
 	sort.Slice(radios, func(a, b int) bool {
