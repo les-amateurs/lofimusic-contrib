@@ -290,7 +290,7 @@ func getLiveRadios() []liveRadio {
 			Slug:  "collegemusic-lonely",
 			Name:  "College Lonely",
 			Owner: "College Music",
-			URL:   "https://youtu.be/bM0Iw7PPoU4",
+			URL:   "https://youtu.be/MQ1C6jv6Ysw",
 			Cards: []string{},
 			Links: []socialLink{
 				{
@@ -299,7 +299,7 @@ func getLiveRadios() []liveRadio {
 				},
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/bM0Iw7PPoU4",
+					URL:  "https://youtu.be/MQ1C6jv6Ysw",
 				},
 				{
 					Slug: "spotify",
@@ -406,12 +406,12 @@ func getLiveRadios() []liveRadio {
 			Slug:  "closedonsunday-pop-culture",
 			Name:  "Pop Culture Sunday",
 			Owner: "Closed on Sunday",
-			URL:   "https://youtu.be/QCWVo19m8xc",
+			URL:   "https://youtu.be/KmmK0a4kGtA",
 			Cards: []string{},
 			Links: []socialLink{
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/QCWVo19m8xc",
+					URL:  "https://youtu.be/KmmK0a4kGtA",
 				},
 				{
 					Slug: "spotify",
@@ -456,12 +456,12 @@ func getLiveRadios() []liveRadio {
 			Slug:  "tokyolosttracks",
 			Name:  "サクラチル",
 			Owner: "Tokyo LosT Track -Sakura Chill-",
-			URL:   "https://youtu.be/cATDx8M-D-E",
+			URL:   "https://youtu.be/KpftRrX83Yk",
 			Cards: []string{},
 			Links: []socialLink{
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/cATDx8M-D-E",
+					URL:  "https://youtu.be/KpftRrX83Yk",
 				},
 				{
 					Slug: "spotify",
@@ -569,7 +569,7 @@ func getLiveRadios() []liveRadio {
 			Slug:  "dreamhop",
 			Name:  "Dreamhop",
 			Owner: "Dreamhop Music",
-			URL:   "https://youtu.be/44MwiiWh8lA",
+			URL:   "https://youtu.be/A6rK6_VqBls",
 			Cards: []string{},
 			Links: []socialLink{
 				{
@@ -578,7 +578,7 @@ func getLiveRadios() []liveRadio {
 				},
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/44MwiiWh8lA",
+					URL:  "https://youtu.be/A6rK6_VqBls",
 				},
 				{
 					Slug: "spotify",
@@ -688,12 +688,12 @@ func getLiveRadios() []liveRadio {
 			Slug:  "gamechops",
 			Name:  "Video Game Study Lounge",
 			Owner: "GameChops",
-			URL:   "https://youtu.be/LvtFH9qzW4g",
+			URL:   "https://youtu.be/3wDDnoCtubY",
 			Cards: []string{},
 			Links: []socialLink{
 				{
 					Slug: "youtube",
-					URL:  "https://youtu.be/LvtFH9qzW4g",
+					URL:  "https://www.youtube.com/c/gamechops",
 				},
 				{
 					Slug: "twitter",
@@ -743,6 +743,35 @@ func getLiveRadios() []liveRadio {
 				{
 					Slug: "website",
 					URL:  "https://RadioCutman.com",
+				},
+			},
+		},
+		{
+			Slug:  "chillsynth-fm",
+			Name:  "ChillSynth FM",
+			Owner: "Nightride FM",
+			URL:   "https://youtu.be/UedTcufyrHc",
+			Cards: []string{},
+			Links: []socialLink{
+				{
+					Slug: "youtube",
+					URL:  "https://www.youtube.com/c/NightrideFM",
+				},
+				{
+					Slug: "discord",
+					URL:  "https://discord.gg/synthwave",
+				},
+				{
+					Slug: "discord",
+					URL:  "https://discord.gg/chillsynth",
+				},
+				{
+					Slug: "website",
+					URL:  "https://chillsynth.fm",
+				},
+				{
+					Slug: "website",
+					URL:  "https://patreon.com/nightridefm",
 				},
 			},
 		},
