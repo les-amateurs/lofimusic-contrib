@@ -775,6 +775,48 @@ func getLiveRadios() []liveRadio {
 				},
 			},
 		},
+		{
+			Slug:  "stop-overthinking-hip-hop",
+			Name:  "Stop Overthinking Hip Hop",
+			Owner: "Dreamhop Music",
+			URL:   "https://youtu.be/4ZUi5EP6rAI",
+			Cards: []string{},
+			Links: []socialLink{
+				{
+					Slug: "youtube",
+					URL:  "https://www.youtube.com/c/EfrenmusicTHR",
+				},
+				{
+					Slug: "spotify",
+					URL:  "https://spoti.fi/3fNpOgA",
+				},
+				{
+					Slug: "youtube",
+					URL:  "https://www.youtube.com/c/DreamhopMusic",
+				},
+			},
+		},
+		{
+			Slug:  "stop-overthinking-sleep",
+			Name:  "Stop Overthinking Sleep",
+			Owner: "Dreamhop Music",
+			URL:   "https://youtu.be/KaQk6CmzRv0",
+			Cards: []string{},
+			Links: []socialLink{
+				{
+					Slug: "youtube",
+					URL:  "https://www.youtube.com/c/AleeexTHR",
+				},
+				{
+					Slug: "spotify",
+					URL:  "https://spoti.fi/2XMnYq2 ",
+				},
+				{
+					Slug: "youtube",
+					URL:  "https://www.youtube.com/c/DreamhopMusic",
+				},
+			},
+		},
 	}
 
 	sort.Slice(radios, func(a, b int) bool {
