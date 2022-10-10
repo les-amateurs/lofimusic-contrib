@@ -809,7 +809,7 @@ func getLiveRadios() []liveRadio {
 				},
 				{
 					Slug: "spotify",
-					URL:  "https://spoti.fi/2XMnYq2 ",
+					URL:  "https://spoti.fi/3fNpOgA",
 				},
 				{
 					Slug: "youtube",
